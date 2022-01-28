@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me on discord @R3STRICTEDGOD
+- 📫 How to reach me on discord @VincetQ#2266
 
 <!---
 rakshitdabral/rakshitdabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
