@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me on discord @VincetQ#2266
+
+
+
+
 <hr>
 <h3 align="left">Some Stats:</h3>
 <div align="center">
