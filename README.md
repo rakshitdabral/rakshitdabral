@@ -11,7 +11,7 @@
 
 
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshitdabral)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshitdabral)](https://github.com/rakshitdabral/github-readme-stats)
 
 
   <hr>
