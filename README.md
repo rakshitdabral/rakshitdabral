@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me on discord @VincetQ#2266
 
-<div align="center">Generated using <a href="https://profilinator.rakshitdabral.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
 <hr>
