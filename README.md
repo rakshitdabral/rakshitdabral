@@ -42,8 +42,8 @@
 <a href="https://www.w3schools.com/js/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
             </a>
-  <a href="">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <a href="https://www.w3schools.com/python/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
   </a>
 
 </p>
