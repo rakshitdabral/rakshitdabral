@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @rakshitdabral
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me on discord @VincetQ#2266
 
@@ -42,6 +42,9 @@
 <a href="https://www.w3schools.com/js/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
             </a>
+  <a href="">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  </a>
 
 </p>
 
