@@ -48,6 +48,9 @@
   <a href="https://www.w3schools.com/c/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
   </a>
+  <a href="https://www.tutorialspoint.com/pycharm/index.htm">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" />
+  </a>
 
 </p>
 
