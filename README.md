@@ -51,6 +51,9 @@
   <a href="https://www.tutorialspoint.com/pycharm/index.htm">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" />
   </a>
+  <a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  </a>
 
 </p>
 
