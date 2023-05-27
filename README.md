@@ -57,7 +57,8 @@
 
 </p>
 
-  [![rakshitdabral's GitHub | Stats](https://stats.quine.sh/rakshitdabral/github?theme=dark)](https://quine.sh)
+ 
+<!--   [![rakshitdabral's GitHub | Stats](https://stats.quine.sh/rakshitdabral/github?theme=dark)](https://quine.sh) -->
            
           
 
