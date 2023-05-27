@@ -58,7 +58,7 @@
 </p>
 
   [![rakshitdabral's GitHub | Stats](https://stats.quine.sh/rakshitdabral/github?theme=light)](https://quine.sh)
-           
+  [![rakshitdabral's GitHub | Topics](https://stats.quine.sh/rakshitdabral/topics-over-time?theme=light)](https://quine.sh)
            
           
 
