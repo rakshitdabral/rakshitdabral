@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @rakshitdabral
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me on discord @VincetQ#2266
 
